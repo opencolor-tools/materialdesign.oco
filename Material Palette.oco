@@ -1,10 +1,12 @@
+oct/defaultView: minimal
 Red:
-  500: #F54336
+  Primary: =500
   50: #FFECEF
   100: #FFCED3
   200: #F09B9B
   300: #E67373
   400: #F05350
+  500: #F54336
   600: #E63935
   700: #D42F2F
   800: #C72828
@@ -14,12 +16,13 @@ Red:
   A400: #FF1744
   A700: #D60000
 Pink:
-  500: #EA1E63
+  Primary: =500
   50: #FDE5ED
   100: #F9BCD1
   200: #F590B2
   300: #F16293
   400: #ED407A
+  500: #EA1E63  
   600: #D91B60
   700: #C3185B
   800: #AE1457
@@ -29,12 +32,13 @@ Pink:
   A400: #F60057
   A700: #C61162
 Purple:
-  500: #9D27B1
+  Primary: =500
   50: #F4E6F6
   100: #E2BFE8
   200: #CF94D9
   300: #BB68C9
   400: #AC47BD
+  500: #9D27B1
   600: #8F24AB
   700: #7B1FA3
   800: #6A1B9B
@@ -44,12 +48,13 @@ Purple:
   A400: #D600FA
   A700: #AB00FF
 Deep Purple:
-  500: #673AB8
+  Primary: =500
   50: #EEE8F7
   100: #D2C5EA
   200: #B49EDC
   300: #9675CE
   400: #7E57C3
+  500: #673AB8
   600: #5E35B2
   700: #512DA9
   800: #4527A1
@@ -59,12 +64,13 @@ Deep Purple:
   A400: #651FFF
   A700: #6200EB
 Indigo:
-  500: #3F51B6
+  Primary: =500
   50: #E9EBF7
   100: #C6CBEA
   200: #A0A9DB
   300: #7987CC
   400: #5C6BC1
+  500: #3F51B6
   600: #3949AC
   700: #303FA0
   800: #283594
@@ -74,12 +80,13 @@ Indigo:
   A400: #3D5AFF
   A700: #304FFF
 Blue:
-  500: #2197F4
+  Primary: =500
   50: #E4F3FE
   100: #BCDFFC
   200: #91CBFA
   300: #64B6F7
   400: #42A6F6
+  500: #2197F4
   600: #1E89E6
   700: #1976D3
   800: #1565C1
@@ -89,12 +96,13 @@ Blue:
   A400: #2979FF
   A700: #2962FF
 Light Blue:
-  500: #03AAF5
+  Primary: =500
   50: #E2F6FF
   100: #B4E6FD
   200: #81D5FB
   300: #4FC4F8
   400: #29B7F7
+  500: #03AAF5
   600: #039CE6
   700: #0289D2
   800: #0277BE
@@ -104,12 +112,13 @@ Light Blue:
   A400: #00B1FF
   A700: #0092EB
 Cyan:
-  500: #00BDD5
+  Primary: =500
   50: #E1F8FB
   100: #B3ECF3
   200: #80DFEB
   300: #4DD1E2
   400: #26C7DB
+  500: #00BDD5
   600: #00ADC2
   700: #0098A8
   800: #008490
@@ -119,12 +128,13 @@ Cyan:
   A400: #00E6FF
   A700: #00B9D5
 Teal:
-  500: #009789
+  Primary: =500
   50: #E1F3F2
   100: #B3E0DC
   200: #80CCC5
   300: #4DB7AD
   400: #26A79B
+  500: #009789
   600: #008A7B
   700: #00796B
   800: #00695C
@@ -134,12 +144,13 @@ Teal:
   A400: #1DEAB7
   A700: #00C0A6
 Green:
-  500: #4CB050
+  Primary: =500
   50: #E9F6EA
   100: #C9E7CA
   200: #A6D7A8
   300: #81C885
   400: #66BC6A
+  500: #4CB050
   600: #43A147
   700: #388F3C
   800: #2E7D32
@@ -149,12 +160,13 @@ Green:
   A400: #00E776
   A700: #00C953
 Light Green:
-  500: #8CC44A
+  Primary: =500
   50: #F2F9EA
   100: #DDEEC9
   200: #C6E2A6
   300: #AFD681
   400: #9DCD65
+  500: #8CC44A
   600: #7CB442
   700: #68A038
   800: #558C2F
@@ -164,12 +176,13 @@ Light Green:
   A400: #76FF03
   A700: #64DE17
 Lime:
-  500: #CEDD39
+  Primary: =500
   50: #FAFCE8
   100: #F1F5C4
   200: #E7EF9D
   300: #DDE875
   400: #D5E257
+  500: #CEDD39
   600: #C1CB33
   700: #B0B52B
   800: #9F9E24
@@ -179,12 +192,13 @@ Lime:
   A400: #C7FF00
   A700: #AFEB00
 Yellow:
-  500: #FFEC3B
+  Primary: =500
   50: #FFFEE8
   100: #FFFAC5
   200: #FFF69E
   300: #FFF276
   400: #FFEF58
+  500: #FFEC3B
   600: #FED935
   700: #FCC12D
   800: #FAA925
@@ -194,13 +208,14 @@ Yellow:
   A400: #FFEB00
   A700: #FFD700
 Amber:
-  500: #FFC207
+  Primary: =500
   50: #FFF9E2
   100: #FFEDB4
   200: #FFE183
   300: #FFD64F
   400: #FFCB28
   600: #FFB400
+  500: #FFC207
   700: #FFA100
   800: #FF9000
   900: #FF6F00
@@ -209,12 +224,13 @@ Amber:
   A400: #FFC500
   A700: #FFAC00
 Orange:
-  500: #FF9900
+  Primary: =500
   50: #FFF4E1
   100: #FFE1B3
   200: #FFCD80
   300: #FFB84D
   400: #FFA826
+  500: #FF9900
   600: #FC8D00
   700: #F67C00
   800: #F06C00
@@ -224,12 +240,13 @@ Orange:
   A400: #FF9200
   A700: #FF6D00
 Deep Orange:
-  500: #FF5722
+  Primary: =500
   50: #FCEAE8
   100: #FFCDBD
   200: #FFAC92
   300: #FF8B65
   400: #FF7043
+  500: #FF5722
   600: #F5511E
   700: #E74A19
   800: #D94315
@@ -239,28 +256,31 @@ Deep Orange:
   A400: #FF3D00
   A700: #DE2C00
 Grey:
-  500: #9F9F9F
+  Primary: =500
   50: #FBFBFB
   100: #F6F6F6
   200: #EFEFEF
   300: #E1E1E1
   400: #BEBEBE
+  500: #9F9F9F
   600: #757575
   700: #616161
   800: #424242
   900: #212121
 Blue Grey:
-  500: #607D8C
+  Primary: =500
   50: #EDF0F2
   100: #D0D9DD
   200: #B1BFC6
   300: #91A5AF
   400: #78919D
+  500: #607D8C
   600: #546E7A
   700: #455A64
   800: #37474F
   900: #263238
 Brown:
+  Primary: =500
   500: #795548
   50: #F0ECEA
   100: #D8CDC9
